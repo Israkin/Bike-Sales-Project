@@ -1,8 +1,10 @@
 # Project Name: Bike Sales
 
+
 ----
 Project Objective: Problem Statement
 The purpose of this project is to solve the problem associated with low sales and how bike selling companies within Europe, North America and the pacific can focus on a target audience that will yield more sales conversion.
+
 
 
 ----
